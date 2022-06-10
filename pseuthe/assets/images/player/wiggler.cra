@@ -1,0 +1,15 @@
+{
+  "Animations": [
+    {
+      "Start": 0,
+      "End": 7,
+      "Loop": true,
+      "Name": "default"
+    }
+  ],
+  "FrameCount": 8,
+  "FrameSize": "64, 32",
+  "FrameRate": 24.0,
+  "Texture": "wiggler.png",
+  "NormalMap": "none.png"
+}
